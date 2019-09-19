@@ -5,7 +5,7 @@
 https://code.visualstudio.com/
 2. Install python 3.7 in Microsort Store  
 ![](https://i.imgur.com/gXOOn11.png)
-3. Paste following command in Powershell as supervisor to enable bash on windwos  
+3. Enable bash on windwos  
 ```
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 ```
