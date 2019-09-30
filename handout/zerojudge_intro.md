@@ -34,7 +34,13 @@ for s in sys.stdin:
         break
     # print answer
 ```
-挑戰題 9/30更新題示  
+挑戰題 9/30更新題示 (已更新在下方 ^ ^)
+```python
+import sys
+for s in sys.stdin:
+    ???
+    print("%g" % ???)
+```
 https://zerojudge.tw/ShowProblem?problemid=b757  
 
 
