@@ -34,7 +34,7 @@ for s in sys.stdin:
         break
     # print answer
 ```
-挑戰題 9/30更新題示 (已更新在下方 ^ ^)
+挑戰題 9/30更新題示 (已更新在下方 ^ ^)  
 ??? 就是你要完成的部分
 ```python
 import sys
