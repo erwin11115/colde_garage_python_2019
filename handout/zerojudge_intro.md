@@ -35,7 +35,10 @@ for s in sys.stdin:
     # print answer
 ```
 挑戰題 9/30更新題示 (已更新在下方 ^ ^)  
-??? 就是你要完成的部分
+
+??? 就是你要完成的部分  
+其實這題只要 4 行就能搞定  
+簡單八
 ```python
 import sys
 for s in sys.stdin:
