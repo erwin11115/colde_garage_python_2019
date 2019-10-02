@@ -6,7 +6,7 @@ zerojudge_intro
 ## the "hello world problem"
 https://zerojudge.tw/ShowProblem?problemid=a001
 ### example code
-```python=
+```python
 import sys
 for s in sys.stdin:
     print('hello, '+s)
@@ -14,7 +14,7 @@ for s in sys.stdin:
 ## a042: 平面圓形切割
 https://zerojudge.tw/ShowProblem?problemid=a042
 ### example code
-```python=
+```python
 import sys
 for s in sys.stdin:
     num = int(s)
