@@ -9,4 +9,4 @@
 [demo.html](https://michael1017.github.io/colde_garage_python_2019/slide/demo.html) : reveal.js 官方範例  
 [index.html](https://michael1017.github.io/colde_garage_python_2019/slide/index.html)  : 茶會投影片  
 ## zj_exercise
-每次聚會結束指派的題目，都會放在這裡  
+每次聚會結束指派的題目，都會放在[這裡](https://github.com/michael1017/colde_garage_python_2019/tree/master/zj_exercise)  
